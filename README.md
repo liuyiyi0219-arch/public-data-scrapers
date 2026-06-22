@@ -14,6 +14,7 @@ monitor new records.
 | [Clinical Trials Monitor](https://apify.com/lxraa/clinical-trials-monitor) | ClinicalTrials.gov | Trials by condition / sponsor / status → flat JSON |
 | [SEC EDGAR Filing Monitor](https://apify.com/lxraa/edgar-filing-monitor) | SEC EDGAR full-text search | 10-K/10-Q/8-K/S-1 by keyword / form / date → JSON + links |
 | [US Federal Spending Monitor](https://apify.com/lxraa/usaspending-monitor) | USAspending.gov | Federal contracts & grants by keyword / agency → JSON |
+| [Company Jobs Aggregator](https://apify.com/lxraa/company-jobs-aggregator) | Greenhouse / Lever / Ashby | Open jobs across companies via official ATS APIs → JSON |
 
 ## Free how-to guides
 
@@ -23,6 +24,7 @@ and a working Python snippet:
 - [Get ClinicalTrials.gov data as clean JSON](guides/01-clinicaltrials-data-as-json.md)
 - [Search SEC EDGAR filings programmatically](guides/02-sec-edgar-filings-to-json.md)
 - [Pull US federal contract data for sales intelligence](guides/03-us-federal-contracts-data.md)
+- [Track company job openings via ATS APIs](guides/04-company-jobs-from-ats-apis.md)
 
 ## Who these are for
 
