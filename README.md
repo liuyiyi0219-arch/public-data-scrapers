@@ -15,6 +15,7 @@ monitor new records.
 | [SEC EDGAR Filing Monitor](https://apify.com/lxraa/edgar-filing-monitor) | SEC EDGAR full-text search | 10-K/10-Q/8-K/S-1 by keyword / form / date → JSON + links |
 | [US Federal Spending Monitor](https://apify.com/lxraa/usaspending-monitor) | USAspending.gov | Federal contracts & grants by keyword / agency → JSON |
 | [Company Jobs Aggregator](https://apify.com/lxraa/company-jobs-aggregator) | Greenhouse / Lever / Ashby | Open jobs across companies via official ATS APIs → JSON |
+| [FDA Recalls Monitor](https://apify.com/lxraa/fda-recalls-monitor) | openFDA | Drug / device / food recalls by keyword, status, class → JSON |
 
 ## Free how-to guides
 
