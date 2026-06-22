@@ -1,0 +1,1444 @@
+[{
+  "nctId": "NCT06461988",
+  "url": "https://clinicaltrials.gov/study/NCT06461988",
+  "title": "Talquetamab & Lenalidomide as Post Stem Cell Transplant Maintenance in Multiple Myeloma",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 20,
+  "leadSponsor": "Stanford University",
+  "collaborators": [
+    "Janssen Scientific Affairs, LLC"
+  ],
+  "conditions": [
+    "Multiple Myeloma",
+    "Post Stem Cell Transplant"
+  ],
+  "interventions": [
+    "DRUG: Talquetamab",
+    "DRUG: Talquetamab and Lenalidomide"
+  ],
+  "startDate": "2025-06-05",
+  "completionDate": "2026-06",
+  "lastUpdate": "2025-08-24",
+  "locationsCount": 1,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "Multiple myeloma (MM) is a heterogenous plasma cell malignancy characterized by clonal proliferation of plasma cells and organ damage. Autologous transplantation with high dose chemotherapy is the standard of care in frontline treatment of eligible patients with MM.",
+  "scrapedAt": "2026-06-22T20:32:14.538Z"
+},
+{
+  "nctId": "NCT04063527",
+  "url": "https://clinicaltrials.gov/study/NCT04063527",
+  "title": "Phase III Trial of Stage I Ovarian Cancer After Surgery",
+  "status": "RECRUITING",
+  "phase": "PHASE3",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 360,
+  "leadSponsor": "Japanese Gynecologic Oncology Group",
+  "collaborators": [
+    "Korean Gynecologic Oncology Group"
+  ],
+  "conditions": [
+    "Epithelial Ovarian Cancer"
+  ],
+  "interventions": [
+    "DRUG: adjuvant chemotherapy"
+  ],
+  "startDate": "2012-07-20",
+  "completionDate": "2030-02-01",
+  "lastUpdate": "2019-08-30",
+  "locationsCount": 103,
+  "countries": [
+    "Japan",
+    "South Korea"
+  ],
+  "briefSummary": "To compare the Overall survival of adjuvant chemotherapy versus observation in stage I epithelial ovarian cancer after comprehensive staging surgery",
+  "scrapedAt": "2026-06-22T20:32:14.588Z"
+},
+{
+  "nctId": "NCT05422027",
+  "url": "https://clinicaltrials.gov/study/NCT05422027",
+  "title": "Selinexor Plus VRd in High Risk Newly Diagnosed Multiple Myeloma",
+  "status": "RECRUITING",
+  "phase": "PHASE1, PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 42,
+  "leadSponsor": "Xia Zhongjun",
+  "collaborators": [
+    "Antengene Corporation"
+  ],
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    "DRUG: Selinexor",
+    "DRUG: Bortezomib",
+    "DRUG: Lenalidomide",
+    "DRUG: Dexamethasone"
+  ],
+  "startDate": "2022-07-25",
+  "completionDate": "2025-12-31",
+  "lastUpdate": "2024-06-17",
+  "locationsCount": 4,
+  "countries": [
+    "China"
+  ],
+  "briefSummary": "This is a single-arm and open-label study to explore XVRd (ATG-010, Bortezomib, Lenalidomide and Dexamethasone) regimen in high-risk newly diagnosed multiple myeloma.The primary objective of the dose escalation study is to determine the safety, tolerability, and recommended phase II dose (RP2D) of selinexor; Then dose expansion at the RP2D level based on dose escalation phase will be conducted to evaluate the efficacy, safety and tolerability.The enrollment period for this study is expected to be approximately 12 months.\n\nThe study will end when all patients have completed 12 cycles treatment/follow-up since the initiation of the study drug, or the last patient has expired, has been lost to follow-up, or has withdrawn consent, whichever occurs first.",
+  "scrapedAt": "2026-06-22T20:32:14.612Z"
+},
+{
+  "nctId": "NCT05413473",
+  "url": "https://clinicaltrials.gov/study/NCT05413473",
+  "title": "Northern Alberta Linac-MR Image-Guided Radiotherapy (Northern LIGHTs-2)",
+  "status": "RECRUITING",
+  "phase": "PHASE1, PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 99,
+  "leadSponsor": "AHS Cancer Control Alberta",
+  "collaborators": [],
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    "DEVICE: MR guided radiotherapy"
+  ],
+  "startDate": "2023-02-08",
+  "completionDate": "2030-01",
+  "lastUpdate": "2025-06-15",
+  "locationsCount": 1,
+  "countries": [
+    "Canada"
+  ],
+  "briefSummary": "Cancers are often treated with external beam radiotherapy. Current radiotherapy treatments are performed using computed tomography (also known as CT) scans which may not always clearly identify the cancer. In some instances, magnetic resonance imaging (MRI) may be able to better identify cancers. Therefore, efforts are currently underway to use the MRI scans to improve radiotherapy treatments or eventually even use radiotherapy equipment that only uses MRI scans to guide treatments. This new technology that will only use MRI scans to guide treatments is called the Linac-MR (linear accelerator with an MRI). This new Linac-MR is a unique innovation at the Cross Cancer Institute, with theoretical advantages over other Linac-MR machines that are being tested elsewhere in the world. This feasibility study is being done as a first step in clinical development of the Linac-MR, as this new technology has to be tested to see if it is acceptable to both doctors and participants. The purpose of this Phase I/II study is (1) to verify treatment completion as intended and scheduled the oncology team, and (2) to evaluate treatment effects, including any expected or unexpected radiation side effects and cancer response to radiation. This study will allow the researchers at the Cross Cancer Institute to develop this technology further by conducting additional studies to take advantage of MRI scanning on tumor tracking during radiation treatments.",
+  "scrapedAt": "2026-06-22T20:32:14.641Z"
+},
+{
+  "nctId": "NCT06059469",
+  "url": "https://clinicaltrials.gov/study/NCT06059469",
+  "title": "PSMA-PET/CT to Assess the Expression of Specific Membrane Antigen (PSMA) in Patients With Progressive Triple-negative Breast Cancer.",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 20,
+  "leadSponsor": "Jules Bordet Institute",
+  "collaborators": [],
+  "conditions": [
+    "TNBC - Triple-Negative Breast Cancer"
+  ],
+  "interventions": [
+    "DIAGNOSTIC_TEST: Ga-PSMA PET/CT"
+  ],
+  "startDate": "2022-05-30",
+  "completionDate": "2025-12",
+  "lastUpdate": "2025-07-18",
+  "locationsCount": 1,
+  "countries": [
+    "Belgium"
+  ],
+  "briefSummary": "This is a descriptive, prospective, single centre study. This study will assess PSMA expression via the uptake of radiolabelled PSMA-ligand using PET/CT imaging in mTNBC lesions pre-identified on 18F-FDG PET/CT in order to evaluate the feasibility of molecular radionuclide therapy in refractory mTNBC using the Lutetium-177 radiolabelled PSMA.",
+  "scrapedAt": "2026-06-22T20:32:14.667Z"
+},
+{
+  "nctId": "NCT07512583",
+  "url": "https://clinicaltrials.gov/study/NCT07512583",
+  "title": "Clinical Studies of TQB2930 Injection for the Treatment of Advanced Solid Tumors",
+  "status": "RECRUITING",
+  "phase": "PHASE1, PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 178,
+  "leadSponsor": "Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical Co., Ltd.",
+  "collaborators": [],
+  "conditions": [
+    "Advanced Solid Tumor"
+  ],
+  "interventions": [
+    "DRUG: TQB2930 injection+TQB2102 for injection"
+  ],
+  "startDate": "2026-05-27",
+  "completionDate": "2028-12",
+  "lastUpdate": "2026-06-08",
+  "locationsCount": 3,
+  "countries": [
+    "China"
+  ],
+  "briefSummary": "This is a multicenter, open-label, multi-cohort phase Ib/II clinical study to evaluate the efficacy and safety of TQB2930 in combination with TQB2102 in patients with HER2-expressing advanced solid tumors.",
+  "scrapedAt": "2026-06-22T20:32:14.689Z"
+},
+{
+  "nctId": "NCT06193356",
+  "url": "https://clinicaltrials.gov/study/NCT06193356",
+  "title": "Detection of Endoscopic Resection Scars and Delineation of Recurrence is Trainable",
+  "status": "RECRUITING",
+  "phase": "NA",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 141,
+  "leadSponsor": "University Hospital, Ghent",
+  "collaborators": [],
+  "conditions": [
+    "Colorectal Polyp",
+    "Colorectal Cancer"
+  ],
+  "interventions": [
+    "OTHER: Learning tool"
+  ],
+  "startDate": "2024-11-11",
+  "completionDate": "2027-01-01",
+  "lastUpdate": "2025-11-25",
+  "locationsCount": 1,
+  "countries": [
+    "Belgium"
+  ],
+  "briefSummary": "Colorectal cancer is prevented by colonoscopy and polypectomy. Failure to recognize the endoscopic resection scar after Endoscopic Mucosal Resection (EMR) risks unrecognized recurrent or residual adenoma (RRA), which may propagate into post-colonoscopy colorectal cancer. Expert series suggest scar recognition and interrogation is well performed with a high negative predictive value of endoscopic imaging vs histopathology. In this study the authors will investigate the performance of endoscopic imaging in detecting RRA at an endoscopic resection scar amongst general endoscopist and the impact of a learning intervention on recognition of RRA.\n\nAfter consent is given, the participant will open the online survey and fill this in.\n\nFirst the participant will be asked to create a pseudonym (name+year of birth) and fill in their demographical information (Grade, years in current role, colonoscopy experience, experience of colonic tissue resection, country of employment\n\nThe first 15 pictures will be shown prior to a learning intervention. For each picture the same questions will be asked:\n\n* Is this an endoscopic resection scar?\n* Based on this image does the scar demonstrate evidence of residual or recurrent adenoma (RRA)?\n* What is your level of confidence?\n* If the scar shows RRA, how would you treat it? (skip if you feel no RRA).\n* If the scar does not show RRA do you feel there is another diagnosis? After the first 15 pictures a video-based learning tool will be shown on detection of RRA.\n\nAfter the learning tool 15 different pictures will be shown, the same questions will be asked. All responses will be collected by the investigators. Statistical analysis will be performed using visual studio code (Microsoft, Redmond, USA) Images will be selected from the 'Australian Colonic LSL Endoscopic Resection Study' (ACE) database, which is an international multicentre registry of images and videos for retrospective analysis of colonic lesions. Images, videos, procedural information, and histopathological data are stored on a secure online web portal after written informed consent of every participating patient.",
+  "scrapedAt": "2026-06-22T20:32:14.713Z"
+},
+{
+  "nctId": "NCT07159451",
+  "url": "https://clinicaltrials.gov/study/NCT07159451",
+  "title": "A Short-term Preoperative, Evaluating Activity and Safety of Elacestrant Monotherapy as Compared to Elacestrant + Ovarian Function Suppression (LHRH Agonist) in Premenopausal Patients With Stage I-II ER+/HER2- Breast Cancer",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 140,
+  "leadSponsor": "Gustave Roussy, Cancer Campus, Grand Paris",
+  "collaborators": [
+    "Menarini Group"
+  ],
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    "DRUG: Elacestrant",
+    "DRUG: Leuprorelin"
+  ],
+  "startDate": "2025-10-06",
+  "completionDate": "2027-05-29",
+  "lastUpdate": "2025-12-01",
+  "locationsCount": 1,
+  "countries": [
+    "France"
+  ],
+  "briefSummary": "A prospective randomized trial designed to evaluate the mean decrease in Ki67 after 4 weeks of elacestrant monotherapy and in combination with leuprorelin in patients with early-stage HR+ BC. This preoperative study will enroll consecutive patients with early stage HR+ BC who are not candidates for neoadjuvant chemotherapy but are eligible for short-term preoperative treatment with elacestrant, with or without leuprorelin, followed by breast surgery. A total of three dedicated Formalin-fixed paraffin embedded (FFPE) samples (mandatory for all patients), along with two frozen biopsy (only for participants at Gustave Roussy), are planned to be collected at the time of inclusion from the biopsy sample and from the surgical specimen. Blood samples will also be collected throughout the study.",
+  "scrapedAt": "2026-06-22T20:32:14.739Z"
+},
+{
+  "nctId": "NCT07381231",
+  "url": "https://clinicaltrials.gov/study/NCT07381231",
+  "title": "Immunotherapy With Adaptive Pulse Radiotherapy in Solid Tumors",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 35,
+  "leadSponsor": "Samsung Medical Center",
+  "collaborators": [],
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    "RADIATION: Pulse radiation therapy"
+  ],
+  "startDate": "2025-09-26",
+  "completionDate": "2031-09-30",
+  "lastUpdate": "2026-02-02",
+  "locationsCount": 1,
+  "countries": [
+    "South Korea"
+  ],
+  "briefSummary": "The goal of this clinical trial is to find out whether Adaptive Pulse Radiotherapy (Pulse RT) combined with immune checkpoint inhibitors (ICIs) helps treat advanced solid tumors.\n\nIt will also check how safe this combined treatment is and how it affects the immune system and quality of life.\n\nThe main questions the study will try to answer are:\n\nDoes adding Pulse RT to ICIs improve tumor response and survival? What side effects occur when participants receive Pulse RT with ICIs? How does the treatment change immune-related blood and tissue markers? Does the treatment affect participants' quality of life?\n\nResearchers will compare this new approach to usual ICI treatment to see whether Pulse RT makes a difference.\n\nParticipants will:\n\nContinue to receive their standard ICI treatment. Receive 2-3 sessions of high-dose Pulse RT (8-10 Gy each) given about every 3 weeks.\n\nHave the treatment volume adjusted based on how their tumors respond. Visit the clinic regularly for check-ups, imaging, blood tests, and quality-of-life questionnaires.",
+  "scrapedAt": "2026-06-22T20:32:14.761Z"
+},
+{
+  "nctId": "NCT07201337",
+  "url": "https://clinicaltrials.gov/study/NCT07201337",
+  "title": "Reduced-dose vs Standard-dose Irradiation for Low-risk Clinical Target Volume in Nasopharyngeal Carcinoma.",
+  "status": "RECRUITING",
+  "phase": "PHASE3",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 700,
+  "leadSponsor": "Sun Yat-sen University",
+  "collaborators": [
+    "Cancer Hospital Chinese Academy of Medical Science, Shenzhen Center",
+    "Affiliated Hospital of Guangdong Medical University",
+    "The University of Hong Kong-Shenzhen Hospital",
+    "Dongguan People's Hospital",
+    "Affiliated Cancer Hospital of Shantou University Medical College"
+  ],
+  "conditions": [
+    "Nasopharyngeal Cancinoma (NPC)"
+  ],
+  "interventions": [
+    "RADIATION: Radiation Therapy",
+    "RADIATION: Radiation Therapy"
+  ],
+  "startDate": "2025-11-17",
+  "completionDate": "2031-11-17",
+  "lastUpdate": "2026-04-06",
+  "locationsCount": 6,
+  "countries": [
+    "China"
+  ],
+  "briefSummary": "To evaluate the locoregional control, survival rate, toxicity, and quality of life in patients with nasopharyngeal carcinoma treated with reduced prophylactic irradiation doses to the Low-Risk Clinical Target Volume (CTV).",
+  "scrapedAt": "2026-06-22T20:32:14.808Z"
+},
+{
+  "nctId": "NCT04520672",
+  "url": "https://clinicaltrials.gov/study/NCT04520672",
+  "title": "Circulating Tumor Cells (CTC) in Cancer",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 3000,
+  "leadSponsor": "University Hospital, Basel, Switzerland",
+  "collaborators": [],
+  "conditions": [
+    "Cancer"
+  ],
+  "interventions": [
+    "OTHER: Blood samples",
+    "OTHER: Samples from tumor draining vessels"
+  ],
+  "startDate": "2020-10-01",
+  "completionDate": "2030-08",
+  "lastUpdate": "2025-03-12",
+  "locationsCount": 2,
+  "countries": [
+    "Switzerland"
+  ],
+  "briefSummary": "This observational study with circulating tumor cells (CTC) count, isolation and analysis at several time points during disease progression is to investigate the role and biology of CTCs and clusters of CTCs in different cancer types. It also evaluates the role of CTCs as biomarkers, and aims at the identification of key signaling networks that are active in CTCs.",
+  "scrapedAt": "2026-06-22T20:32:14.843Z"
+},
+{
+  "nctId": "NCT06295159",
+  "url": "https://clinicaltrials.gov/study/NCT06295159",
+  "title": "Neoadjuvant and Adjuvant Anti-PD1 or Combinations for Locoregionally Advanced Melanoma",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 90,
+  "leadSponsor": "H. Lee Moffitt Cancer Center and Research Institute",
+  "collaborators": [
+    "Bristol-Myers Squibb"
+  ],
+  "conditions": [
+    "Melanoma Stage III",
+    "Melanoma Stage IV",
+    "Advanced Melanoma",
+    "Melanoma"
+  ],
+  "interventions": [
+    "DRUG: Nivolumab",
+    "DRUG: Nivolumab + Relatlimab",
+    "DRUG: Ipilimumab"
+  ],
+  "startDate": "2024-05-17",
+  "completionDate": "2028-11",
+  "lastUpdate": "2026-04-01",
+  "locationsCount": 1,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "The purpose of this study is to determine if neoadjuvant (treatment before surgery) immunotherapy treatment based on tumor biomarkers results in better participant outcomes. Immunotherapy is the treatment of disease by using a person's own immune system.\n\nThis study is divided into 2 sub-studies/parts designated Part 1 and Part 2 that will enroll in sequence starting with Part 1 followed by Part 2.",
+  "scrapedAt": "2026-06-22T20:32:14.867Z"
+},
+{
+  "nctId": "NCT06358573",
+  "url": "https://clinicaltrials.gov/study/NCT06358573",
+  "title": "Intratumoral INT230-6 Followed by Neoadjuvant Immuno-chemotherapy in Patients With Early TNBC. INVINCIBLE-4-SAKK",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 61,
+  "leadSponsor": "Swiss Cancer Institute",
+  "collaborators": [],
+  "conditions": [
+    "Triple-negative Breast Cancer",
+    "TNBC - Triple-Negative Breast Cancer"
+  ],
+  "interventions": [
+    "DRUG: INT230-6",
+    "OTHER: neoadjuvant immuno-chemotherapy"
+  ],
+  "startDate": "2024-10-24",
+  "completionDate": "2031-12",
+  "lastUpdate": "2026-04-02",
+  "locationsCount": 9,
+  "countries": [
+    "Switzerland"
+  ],
+  "briefSummary": "About 10-20% of all individuals with breast cancer have a so-called triple-negative tumor (TNBC). This type of breast cancer has a particularly unfavorable course and a higher mortality rate compared to other forms of breast cancer. Research studies show that it is important for individuals with TNBC to achieve a so-called pathologic complete response (pCR) to treatment. In the phase II study SAKK 66/22, it is being investigated whether the administration of the drug INT230-6 before surgery for breast cancer can increase the rate of pCR in the tumor and affected lymph nodes. The tolerability of INT230-6 as well as other factors such as response to treatment and the possibility of breast-conserving surgery are also being examined.",
+  "scrapedAt": "2026-06-22T20:32:14.911Z"
+},
+{
+  "nctId": "NCT04679454",
+  "url": "https://clinicaltrials.gov/study/NCT04679454",
+  "title": "Single Fraction Preoperative Radiotherapy for Early Stage Breast Cancer",
+  "status": "RECRUITING",
+  "phase": "NA",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 79,
+  "leadSponsor": "European Institute of Oncology",
+  "collaborators": [],
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    "RADIATION: Phase I",
+    "RADIATION: Phase II"
+  ],
+  "startDate": "2021-07-31",
+  "completionDate": "2029-03",
+  "lastUpdate": "2024-08-05",
+  "locationsCount": 1,
+  "countries": [
+    "Italy"
+  ],
+  "briefSummary": "This is a phase I/II, single-arm and open-label single-centre clinical trial with the aim to test the feasibility, safety and the efficacy, in terms of complete pathological response, of preoperative ablative radiotherapy in single fraction for selected breast cancer patients.",
+  "scrapedAt": "2026-06-22T20:32:14.940Z"
+},
+{
+  "nctId": "NCT07025005",
+  "url": "https://clinicaltrials.gov/study/NCT07025005",
+  "title": "Fenofibrate Role in the Prophylaxis From Peripheral Neuropathy Induced by Bortezomib, Lenalidomide and Dexamethasone (VRd) Protocol in the Treatment of Patients With Multiple Myeloma (MM)",
+  "status": "RECRUITING",
+  "phase": "PHASE4",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 44,
+  "leadSponsor": "Tanta University",
+  "collaborators": [],
+  "conditions": [
+    "Peripheral Neuropathy",
+    "Multiple Myeloma, Neoplasms"
+  ],
+  "interventions": [
+    "DRUG: Bortezomib + Lenalidomide + Dexamethasone + Fenofibrate 160 mg tablet",
+    "DRUG: Bortezomib + Lenalidomide + Dexamethasone"
+  ],
+  "startDate": "2025-08-30",
+  "completionDate": "2026-09-30",
+  "lastUpdate": "2025-11-04",
+  "locationsCount": 2,
+  "countries": [
+    "Egypt"
+  ],
+  "briefSummary": "This study aims at evaluating the possible beneficial role of Fenofibrate in attenuating the peripheral neuropathy associated with bortezomib (velcade), lenalidomide (revlimid), and dexamethasone (VRd) regimen in newly diagnosed multiple myeloma patients.The study aims to asses VRd protocol induced peripheral neuropathy through:\n\n1. The implication of National Cancer Institute Common Terminology Criteria for Adverse Events (NCI-CTCAE, Version 5, 2017) and The use of Neurotoxicity-12 items questionnaire score (Ntx-12) from the validated Functional Assessment of Cancer Therapy/Gynecologic Oncology Group \"FACT/GOG-Ntx-12 for grading of neuropathy at baseline and by the end of every two VRd cycles.\n2. The assessment of biological markers:\n\nBrain -derived neurotrophic factor (BDNF) and Neuro-filament light chain (NfL). through comparing two groups: Group one: (Control group; n=22): which will receive 6 cycles of VRd regimen (each cycle will be given every 28 days).\n\nGroup two: (Fenofibrate group; n=22): which will receive the same regimen plus Fenofibrate 160 mg once daily.",
+  "scrapedAt": "2026-06-22T20:32:14.970Z"
+},
+{
+  "nctId": "NCT06011954",
+  "url": "https://clinicaltrials.gov/study/NCT06011954",
+  "title": "A Study to Survey Adults in South Korea With Cancer Who Receive PADCEV Injection",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 202,
+  "leadSponsor": "Astellas Pharma Korea, Inc.",
+  "collaborators": [
+    "Seagen Inc."
+  ],
+  "conditions": [
+    "Urothelial Cancer"
+  ],
+  "interventions": [
+    "DRUG: Enfortumab Vedotin"
+  ],
+  "startDate": "2023-11-01",
+  "completionDate": "2027-07-31",
+  "lastUpdate": "2026-05-14",
+  "locationsCount": 18,
+  "countries": [
+    "South Korea"
+  ],
+  "briefSummary": "Enfortumab vedotin (or PADCEV Injection) is a treatment for cancer in the bladder lining (urothelial cancer). PADCEV Injection is now available to treat this cancer.\n\nPeople in this study will be adults in South Korea with locally advanced or metastatic urothelial cancer. Metastatic means the cancer has spread to other parts of the body. During their care, the person's doctor will have prescribed PADCEV Injection and other medicines to treat their cancer. People in the study will be treated according to their clinic's standard practice. This study is about collecting information only.\n\nThis study will survey people who know they are receiving PADCEV Injection. The aims of the study are to check outcomes of treatment with PADCEV and record any medical problems during the study.\n\nOnce a doctor has prescribed PADCEV Injection, a person in the study will be observed for up to 48 weeks (about 1 year) after their first dose. During this time, a person's medical records will be reviewed to check for any medical problems and to follow the condition of their cancer. If a person in the study stops taking PADCEV Injection sooner than 48 weeks, records will be reviewed until 30 days (1 month) after each person's last dose of PADCEV Injection or until they start a different medicine for their cancer.",
+  "scrapedAt": "2026-06-22T20:32:14.995Z"
+},
+{
+  "nctId": "NCT04733729",
+  "url": "https://clinicaltrials.gov/study/NCT04733729",
+  "title": "Covid-19 in Hematological Malignancies",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 3000,
+  "leadSponsor": "Sorveglianza Epidemiologica Infezioni Fungine Emopatie Maligne",
+  "collaborators": [
+    "European Hematology Association"
+  ],
+  "conditions": [
+    "COVID-19 Infection in Hematological Malignancies Patients"
+  ],
+  "interventions": [],
+  "startDate": "2020-03-01",
+  "completionDate": "2025-12-31",
+  "lastUpdate": "2025-05-29",
+  "locationsCount": 6,
+  "countries": [
+    "Italy"
+  ],
+  "briefSummary": "The overall purpose of this project is to better understand the epidemiology of COVID-19 in patients with hematological malignancies (including hematopoietic stem cell transplant recipients) in the different European Countries. The results obtained will allow us to better know the prevalence of this complication in the different categories of patients with hematological malignancies (HMs). In order to attain the objectives previously described we will develop a multicentre, international, observational, retrospective and prospective study of consecutive cases of COVID-19 among HMs. There will be a clinical follow-up of the patients included in this study to observe the survival rate. Data collected form this study will be evaluated with a descriptive analysis.",
+  "scrapedAt": "2026-06-22T20:32:15.030Z"
+},
+{
+  "nctId": "NCT04935853",
+  "url": "https://clinicaltrials.gov/study/NCT04935853",
+  "title": "Prognostic and Predictive Markers of Response to Treatment in Patients With Bile Duct Cancer: ACABi PRONOBIL Study",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 1350,
+  "leadSponsor": "GERCOR - Multidisciplinary Oncology Cooperative Group",
+  "collaborators": [],
+  "conditions": [
+    "Biliary Tract Cancer"
+  ],
+  "interventions": [],
+  "startDate": "2022-05-23",
+  "completionDate": "2040-06-01",
+  "lastUpdate": "2025-07-23",
+  "locationsCount": 32,
+  "countries": [
+    "France"
+  ],
+  "briefSummary": "The objective of this study is to identify prognosis and predictive markers of response to treatments (surgery, chemotherapy, targeted therapy,loco-regional treatments ) in patients with bile duct cancer. The effectiveness and tolerance of these treatments in current practice will also be evaluated.",
+  "scrapedAt": "2026-06-22T20:32:15.056Z"
+},
+{
+  "nctId": "NCT07407153",
+  "url": "https://clinicaltrials.gov/study/NCT07407153",
+  "title": "Triaging of Women Detected With a Breast Lump on Clinical Breast Examination Using Portable Ultrasound Device",
+  "status": "RECRUITING",
+  "phase": "NA",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 600,
+  "leadSponsor": "International Agency for Research on Cancer",
+  "collaborators": [
+    "Dharmais National Cancer Center Hospital"
+  ],
+  "conditions": [
+    "Breast Cancer"
+  ],
+  "interventions": [
+    "DIAGNOSTIC_TEST: Portable ultrasound device"
+  ],
+  "startDate": "2025-06-01",
+  "completionDate": "2028-04-30",
+  "lastUpdate": "2026-02-12",
+  "locationsCount": 1,
+  "countries": [
+    "Indonesia"
+  ],
+  "briefSummary": "This study aims to stratify women diagnosed with a lump in the breast by clinical breast examination(CBE) using a hand-held ultrasound machine. They will be stratified either with benign or potentially malignant lesion. As most of the lesions identified by CBE are benign, stratifying them (triage) avoids the unnecessary procedures in terms of mammography and biopsy. This will also reduce the burden in the further assessment sites, and provide better quality services in these places.",
+  "scrapedAt": "2026-06-22T20:32:15.076Z"
+},
+{
+  "nctId": "NCT04772937",
+  "url": "https://clinicaltrials.gov/study/NCT04772937",
+  "title": "Comparison of LLETZ Versus LEEP for the Treatment of Cervical Dysplasia",
+  "status": "RECRUITING",
+  "phase": "NA",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 206,
+  "leadSponsor": "Ruhr University of Bochum",
+  "collaborators": [],
+  "conditions": [
+    "Cervical Dysplasia"
+  ],
+  "interventions": [
+    "PROCEDURE: LLETZ",
+    "PROCEDURE: LEEP"
+  ],
+  "startDate": "2021-06-07",
+  "completionDate": "2025-11",
+  "lastUpdate": "2025-01-30",
+  "locationsCount": 1,
+  "countries": [
+    "Germany"
+  ],
+  "briefSummary": "Cervical dysplasia is the precursor of cervical cancer. LEEP and LLETZ are standard surgical procedures to treat cervical dysplasia. There is no direct head-to-head comparison between LEEP and LLETZ in the literature regarding oncologic safety, for which complete resection of the dysplastic lesion (so-called 'in-sano resection') is the most appropriate postoperative surrogate parameter. Further clinical studies are therefore useful to optimize surgical therapy for cervical dysplasia.\n\nThe primary objective of the present study is to compare LLETZ (resection of the dysplastic lesion including the transformation zone) with targeted resection of the colposcopically conspicuous lesion only (LEEP) and to compare it with regard to oncological safety (defined as non-in-sano rate).",
+  "scrapedAt": "2026-06-22T20:32:15.101Z"
+},
+{
+  "nctId": "NCT06684639",
+  "url": "https://clinicaltrials.gov/study/NCT06684639",
+  "title": "A Study on the Efficacy of GD2-CAR T Cells in the Treatment of Neuroblastoma",
+  "status": "RECRUITING",
+  "phase": "EARLY_PHASE1",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 30,
+  "leadSponsor": "The General Hospital of Western Theater Command",
+  "collaborators": [
+    "Yake Biotechnology Ltd."
+  ],
+  "conditions": [
+    "Neuroblastoma"
+  ],
+  "interventions": [
+    "BIOLOGICAL: GD2-CAR-T cell"
+  ],
+  "startDate": "2024-12-01",
+  "completionDate": "2030-12-01",
+  "lastUpdate": "2024-12-20",
+  "locationsCount": 1,
+  "countries": [
+    "China"
+  ],
+  "briefSummary": "Neuroblastoma (NB) is a malignant tumor of the sympathetic nervous system.Chemotherapy and autologous hematopoietic stem cell transplantation are the main treatments for neuroblastoma, and the prognosis of patients with high-risk recurrence and refractory treatment is very poor. There is a large unmet medical need in patients with relapsed refractory neuroblastoma, and further research into new therapeutic approaches is needed for these patients.GD2 is a dissialic ganglioside expressed by neuroectodermal tumors. The proportion of GD2 expression in neuroblastoma is up to 100%, so GD2 is a specific target for neuroblastoma immunotherapy and an ideal target for CAR-T treatment of neuroblastoma.",
+  "scrapedAt": "2026-06-22T20:32:15.131Z"
+},
+{
+  "nctId": "NCT04020575",
+  "url": "https://clinicaltrials.gov/study/NCT04020575",
+  "title": "Autologous huMNC2-CAR44 or huMNC2-CAR22 T Cells for Breast Cancer Targeting Cleaved Form of MUC1 (MUC1*)",
+  "status": "RECRUITING",
+  "phase": "PHASE1",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 69,
+  "leadSponsor": "Minerva Biotechnologies Corporation",
+  "collaborators": [
+    "City of Hope Medical Center"
+  ],
+  "conditions": [
+    "Metastatic Breast Cancer"
+  ],
+  "interventions": [
+    "BIOLOGICAL: huMNC2-CAR44 CAR T cells or huMNC2-CAR22 CAR T cells",
+    "BIOLOGICAL: huMNC2-CAR44 CAR T cells or huMNC2-CAR22 CAR T cells @ RP2D"
+  ],
+  "startDate": "2020-01-15",
+  "completionDate": "2035-01-15",
+  "lastUpdate": "2023-06-18",
+  "locationsCount": 1,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "Phase I/II study of adoptive immunotherapy for advanced MUC1\\* positive breast cancer with autologous T cells engineered to express either a chimeric antigen receptor, huMNC2-CAR44 or huMNC2-CAR22, which are specific for a cleaved form of MUC1 (MUC1\\*).",
+  "scrapedAt": "2026-06-22T20:32:15.176Z"
+},
+{
+  "nctId": "NCT06821880",
+  "url": "https://clinicaltrials.gov/study/NCT06821880",
+  "title": "Developing a Patient-Reported Outcome (PRO) Screening Measure for Infections and Measuring Quality of Life in Hematological Patients With Secondary Immunodeficiency (SID) Across the Treatment Trajectory - The PRO SID Project",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 120,
+  "leadSponsor": "Medical University Innsbruck",
+  "collaborators": [],
+  "conditions": [
+    "Chronic Lymphocytic Leukaemia (CLL)",
+    "Multiple Myeloma (MM)",
+    "Secondary Immunodeficiency (SID)"
+  ],
+  "interventions": [],
+  "startDate": "2025-02-03",
+  "completionDate": "2026-07",
+  "lastUpdate": "2025-02-12",
+  "locationsCount": 5,
+  "countries": [
+    "Austria",
+    "Germany"
+  ],
+  "briefSummary": "The goal of this observational study is to improve the treatment of hematological patients with secondary immunodeficiency (SID) by developing a patient-reported outcome (PRO) instrument to detect clinically diagnosed infections. The study focuses on adults diagnosed with chronic lymphocytic leukemia (CLL) or multiple myeloma (MM) who are at increased risk of infections due to SID.\n\nThe main questions it aims to answer are:\n\n1. Can a newly developed PRO screening tool for infection-related symptoms reliably detect infections in patients with SID?\n2. How does the health-related quality of life change over the treatment course\n\nParticipants will:\n\n* Complete daily electronic PRO questionnaires (ePRO) to monitor infection-related symptoms\n* Complete ePRO health-related quality of life questionnaires every 1.5 months\n* Participate in study visits every three months to ensure documentation of clinical data",
+  "scrapedAt": "2026-06-22T20:32:15.206Z"
+},
+{
+  "nctId": "NCT06607796",
+  "url": "https://clinicaltrials.gov/study/NCT06607796",
+  "title": "Efficacy and Safety of Intratumoral Toluenesulfonamide (PTS) Injection in Stage IV Driver Gene-Negative NSCLC With/Without Chemoimmunotherapy",
+  "status": "RECRUITING",
+  "phase": "PHASE3",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 180,
+  "leadSponsor": "Zhou Chengzhi",
+  "collaborators": [],
+  "conditions": [
+    "Lung Cancer"
+  ],
+  "interventions": [
+    "DRUG: Toluenesulfonamide (PTS) Intratumoral Injection"
+  ],
+  "startDate": "2024-03-01",
+  "completionDate": "2026-12",
+  "lastUpdate": "2024-09-25",
+  "locationsCount": 1,
+  "countries": [
+    "China"
+  ],
+  "briefSummary": "The aim of this study was to evaluate the efficacy and safety of intratumoral injection of toluenesulfonamide(PTS) in combination with or without first-line chemoimmunization based on standard treatment for stage IV driver gene-negative non-small cell lung cancer.",
+  "scrapedAt": "2026-06-22T20:32:15.236Z"
+},
+{
+  "nctId": "NCT07542496",
+  "url": "https://clinicaltrials.gov/study/NCT07542496",
+  "title": "Real-world Bicohort Observational Study of a Pertuzumab Biosimilar in the Treatment of Breast Cancer: in the Neoadjuvant Setting and in First-line Metastatic Disease",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 1000,
+  "leadSponsor": "Société Algérienne de Formation et Recherche en Oncologie",
+  "collaborators": [
+    "ES Clinical Research",
+    "AlgenPharm"
+  ],
+  "conditions": [
+    "Breast Cancer",
+    "Her 2 Positive Breast Cancer"
+  ],
+  "interventions": [],
+  "startDate": "2026-01-15",
+  "completionDate": "2027-01-15",
+  "lastUpdate": "2026-04-21",
+  "locationsCount": 2,
+  "countries": [
+    "Algeria"
+  ],
+  "briefSummary": "The goal of this observational study is to describe the real-world utilization patterns of a pertuzumab biosimilar and to evaluate its clinical outcomes in patients with breast cancer in both neoadjuvant and metastatic settings. It also aims to assess pathological complete response (pCR), disease-free survival (DFS) in the neoadjuvant cohort, progression-free survival (PFS) in the metastatic cohort, overall survival (OS), treatment response, and safety and tolerability (adverse events according to CTCAE) across both cohorts.",
+  "scrapedAt": "2026-06-22T20:32:15.261Z"
+},
+{
+  "nctId": "NCT07499362",
+  "url": "https://clinicaltrials.gov/study/NCT07499362",
+  "title": "Study of Pimicotinib in Japanese Participants With Tenosynovial Giant Cell Tumor (TGCT) (J-MANEUVER)",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 20,
+  "leadSponsor": "Merck Healthcare KGaA, Darmstadt, Germany, an affiliate of Merck KGaA, Darmstadt, Germany",
+  "collaborators": [
+    "Merck KGaA, Darmstadt, Germany"
+  ],
+  "conditions": [
+    "Tenosynovial Giant Cell Tumor"
+  ],
+  "interventions": [
+    "DRUG: Pimicotinib"
+  ],
+  "startDate": "2026-03-26",
+  "completionDate": "2029-11-22",
+  "lastUpdate": "2026-06-16",
+  "locationsCount": 3,
+  "countries": [
+    "Japan"
+  ],
+  "briefSummary": "The primary purpose of this study is to assess the tolerability, pharmacokinetics, and efficacy of pimicotinib in Japanese participants with TGCT",
+  "scrapedAt": "2026-06-22T20:32:15.284Z"
+},
+{
+  "nctId": "NCT05889546",
+  "url": "https://clinicaltrials.gov/study/NCT05889546",
+  "title": "Rapid Autopsy Protocol for Patients With Small Cell Lung Cancer",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 30,
+  "leadSponsor": "Indiana University",
+  "collaborators": [],
+  "conditions": [
+    "Small Cell Lung Cancer"
+  ],
+  "interventions": [
+    "PROCEDURE: Biospecimen Collection"
+  ],
+  "startDate": "2022-08-31",
+  "completionDate": "2031-12-31",
+  "lastUpdate": "2025-07-20",
+  "locationsCount": 3,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "This is pilot study to establish a rapid autopsy program in Small Cell Lung Cancer (SCLC) at the Indiana University Simon Comprehensive Cancer Center and outline the components necessary for tumor tissue collection.",
+  "scrapedAt": "2026-06-22T20:32:15.348Z"
+},
+{
+  "nctId": "NCT06859762",
+  "url": "https://clinicaltrials.gov/study/NCT06859762",
+  "title": "A First-in-Human Study of YL217 in Patients With Advanced Solid Tumors",
+  "status": "RECRUITING",
+  "phase": "PHASE1",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 220,
+  "leadSponsor": "MediLink Therapeutics (Suzhou) Co., Ltd.",
+  "collaborators": [],
+  "conditions": [
+    "Advanced Solid Tumor"
+  ],
+  "interventions": [
+    "DRUG: YL217",
+    "DRUG: YL217",
+    "DRUG: YL217"
+  ],
+  "startDate": "2025-07-02",
+  "completionDate": "2027-07",
+  "lastUpdate": "2026-01-14",
+  "locationsCount": 19,
+  "countries": [
+    "United States",
+    "China"
+  ],
+  "briefSummary": "A Phase 1 First-in-Human study of YL217 in Patients with Advanced Solid Tumors",
+  "scrapedAt": "2026-06-22T20:32:15.375Z"
+},
+{
+  "nctId": "NCT06088888",
+  "url": "https://clinicaltrials.gov/study/NCT06088888",
+  "title": "TGRX-678 US Phase I for Subjects with Refractory or Advanced Chronic Myelogenous Leukemia",
+  "status": "RECRUITING",
+  "phase": "PHASE1",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 90,
+  "leadSponsor": "Shenzhen TargetRx Co., Ltd.",
+  "collaborators": [
+    "M.D. Anderson Cancer Center"
+  ],
+  "conditions": [
+    "Chronic Myelogenous Leukemia"
+  ],
+  "interventions": [
+    "DRUG: TGRX-678"
+  ],
+  "startDate": "2024-07-02",
+  "completionDate": "2027-06-30",
+  "lastUpdate": "2025-02-21",
+  "locationsCount": 2,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "The purpose of this single-arm, open-label, dose escalation + cohort expansion study is to evaluate the safety, tolerability, pharmacokinetic and preliminary efficacy of TGRX-678 in Chronic Myelogenous Leukemia patients who had failure with or are intolerant to TKI treatments.",
+  "scrapedAt": "2026-06-22T20:32:15.399Z"
+},
+{
+  "nctId": "NCT06397703",
+  "url": "https://clinicaltrials.gov/study/NCT06397703",
+  "title": "ADT and SBRT vs SBRT Alone for Unfavorable Intermediate Risk Prostate Cancer",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 392,
+  "leadSponsor": "NYU Langone Health",
+  "collaborators": [],
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    "DRUG: Leuprolide, Degarelix or Relugolix",
+    "RADIATION: Stereotactic body radiation therapy/radiosurgery (SBRT)"
+  ],
+  "startDate": "2024-04-16",
+  "completionDate": "2031-04-16",
+  "lastUpdate": "2026-01-28",
+  "locationsCount": 1,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "For this study, unfavorable intermediate risk prostate cancer patients will select whether they are to be treated with the standard of care (SOC) 6 months of Androgen Deprivation Therapy (ADT) in conjunction with stereotactic body radiation therapy/radiosurgery (SBRT) directed to the prostate versus SBRT alone. The patient population will include those with National Comprehensive Cancer Network (NCCN)-defined unfavorable intermediate risk disease. All patients will be followed every 6 months for up to 5 years from the first patient treated and will undergo a routine 24-30 months post-SBRT prostate biopsy to assess for local tumor control.",
+  "scrapedAt": "2026-06-22T20:32:15.443Z"
+},
+{
+  "nctId": "NCT07396454",
+  "url": "https://clinicaltrials.gov/study/NCT07396454",
+  "title": "Study on the Treatment of HER2-negative Breast Cancer Brain Metastases With Radiotherapy Combined With Anlotinib",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 39,
+  "leadSponsor": "The First Affiliated Hospital with Nanjing Medical University",
+  "collaborators": [],
+  "conditions": [
+    "HER2-Negative Breast Cancer"
+  ],
+  "interventions": [
+    "DRUG: Radiotherapy Combined with Anlotinib and a Microtubule Inhibitor"
+  ],
+  "startDate": "2026-02-10",
+  "completionDate": "2028-06-01",
+  "lastUpdate": "2026-02-09",
+  "locationsCount": 1,
+  "countries": [
+    "China"
+  ],
+  "briefSummary": "Angiogenesis inhibition represents a significant therapeutic target in breast cancer; however, despite its theoretical feasibility, progress in advanced breast cancer has been slow. Currently, there is a lack of prospective data supporting the selection of tyrosine kinase inhibitors (TKIs) in combination with local therapy. This phase II study aims to evaluate the efficacy and safety of stereotactic radiotherapy (SRT) or whole-brain radiotherapy (WBRT) combined with anlotinib in patients with HER2-negative advanced breast cancer and brain metastases.",
+  "scrapedAt": "2026-06-22T20:32:15.465Z"
+},
+{
+  "nctId": "NCT06550102",
+  "url": "https://clinicaltrials.gov/study/NCT06550102",
+  "title": "Drug Response Profiling (DRP) Registry Zurich for Hematological Malignancies",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 1000,
+  "leadSponsor": "University Children's Hospital, Zurich",
+  "collaborators": [],
+  "conditions": [
+    "Hematological Malignancies"
+  ],
+  "interventions": [],
+  "startDate": "2022-01-04",
+  "completionDate": "2031-12-31",
+  "lastUpdate": "2024-08-15",
+  "locationsCount": 1,
+  "countries": [
+    "Switzerland"
+  ],
+  "briefSummary": "This study is a prospective, non-randomized feasibility study of drug response profiling (DRP) in pediatric blood cancers. Primary cancer cells are isolated from patients and screened ex vivo at single-cell resolution using automated fluorescence microscopy. Drug sensitivity fingerprints are integrated with genetic annotations to inform the treating physician about personalized treatment options. The study aims to determine the practicability of real-time drug response profiling and its actionability in identifying patient-specific cancer dependencies in refractory disease settings.",
+  "scrapedAt": "2026-06-22T20:32:15.495Z"
+},
+{
+  "nctId": "NCT04830137",
+  "url": "https://clinicaltrials.gov/study/NCT04830137",
+  "title": "A Study of NX-2127 in Adults With Relapsed/Refractory B-cell Malignancies",
+  "status": "RECRUITING",
+  "phase": "PHASE1",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 248,
+  "leadSponsor": "Nurix Therapeutics, Inc.",
+  "collaborators": [],
+  "conditions": [
+    "Chronic Lymphocytic Leukemia (CLL)",
+    "Small Lymphocytic Lymphoma (SLL)",
+    "Waldenstrom Macroglobulinemia (WM)",
+    "Mantle Cell Lymphoma (MCL)",
+    "Marginal Zone Lymphoma (MZL)",
+    "Follicular Lymphoma (FL)",
+    "Diffuse Large B-cell Lymphoma (DLBCL)",
+    "Primary Central Nervous System Lymphoma (PCNSL)"
+  ],
+  "interventions": [
+    "DRUG: NX-2127"
+  ],
+  "startDate": "2021-05-05",
+  "completionDate": "2027-05",
+  "lastUpdate": "2026-03-20",
+  "locationsCount": 16,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "This is a first-in-human Phase 1a/1b multicenter, open-label oncology study designed to evaluate the safety and anti-cancer activity of NX-2127 in patients with advanced B-cell malignancies.",
+  "scrapedAt": "2026-06-22T20:32:15.532Z"
+},
+{
+  "nctId": "NCT03592472",
+  "url": "https://clinicaltrials.gov/study/NCT03592472",
+  "title": "A Study of Pazopanib With or Without Abexinostat in Patients With Locally Advanced or Metastatic Renal Cell Carcinoma (RENAVIV)",
+  "status": "RECRUITING",
+  "phase": "PHASE3",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 413,
+  "leadSponsor": "Xynomic Pharmaceuticals, Inc.",
+  "collaborators": [],
+  "conditions": [
+    "Renal Cell Carcinoma"
+  ],
+  "interventions": [
+    "DRUG: Pazopanib",
+    "DRUG: Abexinostat",
+    "OTHER: Placebo"
+  ],
+  "startDate": "2018-07-17",
+  "completionDate": "2028-06-30",
+  "lastUpdate": "2025-04-13",
+  "locationsCount": 38,
+  "countries": [
+    "United States",
+    "China",
+    "Italy",
+    "Poland",
+    "South Korea",
+    "Spain"
+  ],
+  "briefSummary": "This is a randomized, Phase 3, double-blind, placebo-controlled study of pazopanib plus abexinostat versus pazopanib plus placebo in patients with locally advanced unresectable or metastatic renal cell carcinoma (RCC).",
+  "scrapedAt": "2026-06-22T20:32:15.559Z"
+},
+{
+  "nctId": "NCT07486713",
+  "url": "https://clinicaltrials.gov/study/NCT07486713",
+  "title": "Olutasidenib DDI Study in Patients With IDH1 Mutation Positive Malignancies",
+  "status": "RECRUITING",
+  "phase": "PHASE4",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 16,
+  "leadSponsor": "Rigel Pharmaceuticals",
+  "collaborators": [],
+  "conditions": [
+    "AML (Acute Myeloid Leukemia)",
+    "Glioma",
+    "Cholangiocarcinoma",
+    "Solid Tumor Malignancies"
+  ],
+  "interventions": [
+    "DRUG: Olutasidenib",
+    "DRUG: CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP3A4, and OATP1B1 Probe Substrates"
+  ],
+  "startDate": "2026-02-23",
+  "completionDate": "2027-06-30",
+  "lastUpdate": "2026-06-05",
+  "locationsCount": 2,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "A open-label drug-drug interaction (DDI) study to evaluate the effects of olutasidenib on the pharmacokinetics (PK) of a CYP450 and OATP1B1 probe substrate cocktail in participants with IDH1 mutation-positive malignancies.",
+  "scrapedAt": "2026-06-22T20:32:15.581Z"
+},
+{
+  "nctId": "NCT04453813",
+  "url": "https://clinicaltrials.gov/study/NCT04453813",
+  "title": "Toripalimab Plus Concurrent Chemo-radiotherapy for Unresectable Locally Recurrent Nasopharyngeal Carcinoma",
+  "status": "RECRUITING",
+  "phase": "PHASE3",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 226,
+  "leadSponsor": "Sun Yat-sen University",
+  "collaborators": [
+    "Affiliated Cancer Hospital & Institute of Guangzhou Medical University",
+    "Zhongshan People's Hospital, Guangdong, China",
+    "Yuebei People's Hospital",
+    "Wuzhou Red Cross Hospital",
+    "Fifth Affiliated Hospital, Sun Yat-Sen University"
+  ],
+  "conditions": [
+    "Nasopharyngeal Carcinoma",
+    "Chemotherapy",
+    "Radiotherapy",
+    "PD-1 Treatment"
+  ],
+  "interventions": [
+    "DRUG: Toripalimab plus concurrent chemo-radiotherapy",
+    "DRUG: Concurrent chemo-radiotherapy"
+  ],
+  "startDate": "2020-07-03",
+  "completionDate": "2027-07",
+  "lastUpdate": "2020-09-28",
+  "locationsCount": 6,
+  "countries": [
+    "China"
+  ],
+  "briefSummary": "Through multicenter, open-label, randomised clinical trials, we intend to demonstrate that concurrent and adjuvant PD-1 treatment added to concurrent chemo-radiotherapy could further decrease the rate of disease progression and improve the survival outcome of patients with unresectable locally recurrent nasopharyngeal carcinoma compared with those treated with concurrent chemo-radiotherapy alone.",
+  "scrapedAt": "2026-06-22T20:32:15.607Z"
+},
+{
+  "nctId": "NCT05530096",
+  "url": "https://clinicaltrials.gov/study/NCT05530096",
+  "title": "Telo Genomics Technology to Detect & Profile Multiple Myeloma MRD",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 70,
+  "leadSponsor": "Sir Mortimer B. Davis - Jewish General Hospital",
+  "collaborators": [],
+  "conditions": [
+    "Multiple Myeloma"
+  ],
+  "interventions": [
+    "DIAGNOSTIC_TEST: Standard of care"
+  ],
+  "startDate": "2024-05-01",
+  "completionDate": "2028-09",
+  "lastUpdate": "2025-04-03",
+  "locationsCount": 1,
+  "countries": [
+    "Canada"
+  ],
+  "briefSummary": "The purpose :\n\nDetect and profile Multiple myeloma Measurable Residual Disease(MRD) prognostics for monitoring post-transplant Multiple Myeloma (MM) Patients receiving maintenance therapy.",
+  "scrapedAt": "2026-06-22T20:32:15.633Z"
+},
+{
+  "nctId": "NCT06688383",
+  "url": "https://clinicaltrials.gov/study/NCT06688383",
+  "title": "Anastomotic Leakage After Right Hemicolectomy for Cancer, a Prospective Multicenter Study of SICO-CC Network",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 1839,
+  "leadSponsor": "San Luigi Gonzaga Hospital",
+  "collaborators": [],
+  "conditions": [
+    "Anastomotic Leak Large Intestine",
+    "Right Colon Tumors"
+  ],
+  "interventions": [],
+  "startDate": "2021-01-01",
+  "completionDate": "2026-06",
+  "lastUpdate": "2024-11-14",
+  "locationsCount": 1,
+  "countries": [
+    "Italy"
+  ],
+  "briefSummary": "This is a nationwide prospective observational study to assess the overall clinical anastomotic leakage rate after right hemicolectomy for cancer, to detect the independent risk factors for AL, and to develop a clinical prediction model to estimates of the probability of the occurrence of an AL after surgery. Since this is a multicenter prospective study, the Division of Surgical Oncology and Digestive Surgery from the University of Turin, Department of Oncology, AOU San Luigi Gonzaga di Orbassano will be the Coordinator Center of the study, Ethics committee approves will be requested before the implementation of this study.\n\nItalian high-volume colorectal surgery centers members of SICO (The Italian Society of Oncological Surgery) have agreed to participate as collaborators of this study, notification and revision from their local ethics committee will be requested as well. A certified general surgeon with a large experience in the preoperative, operative, and postoperative management of patients with colorectal cancer has been identified to coordinate the study in each center. Id information of the potential collaborators is specified in the section \"Trial Setting\". Once the study is activated, eligible patients (or a representative) must provide written, informed consent before any study procedures occur. No intervention or modification of the habitual clinical practice is planned All data will enter into a database provided by the promoting center. There are three main sections of data collection for each patient:\n\n* Preoperative: baseline, disease and demographics.\n* Operative: details about the surgery, anastomosis construction and enterotomy closure.\n* Follow-up: outcomes data about the early (within 30 postoperative day) and late postoperative course (31 th - 60th postoperative day) and pathology report. The definition of AL is based on the presence of clinical signs (pain, fever, tachycardia, peritonitis, feculent or enteric drainage, purulent drainage, postoperative ileus, abscess, septicemia, and/or organ failure) with radiographic signs (fluid collections, gas containing collections at CT scan) suggestive of AL and-or intraoperative or autopsy findings (gross enteric spillage, anastomotic disruption). The absence of AL will be assumed by a normal postoperative course and the absence of symptoms suggestive of AL with or without radiologic confirmation.",
+  "scrapedAt": "2026-06-22T20:32:15.662Z"
+},
+{
+  "nctId": "NCT06793241",
+  "url": "https://clinicaltrials.gov/study/NCT06793241",
+  "title": "Donor Derived CD19 CAR-T Cells in the Treatment of R/R B-cell Acute Lymphoblastic Leukemia",
+  "status": "RECRUITING",
+  "phase": "EARLY_PHASE1",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 15,
+  "leadSponsor": "Zhejiang University",
+  "collaborators": [
+    "Yake Biotechnology Ltd."
+  ],
+  "conditions": [
+    "B-cell Acute Lymphoblastic Leukemia"
+  ],
+  "interventions": [
+    "BIOLOGICAL: CD19 B-cell Acute Lymphoblastic Leukemia Targeted CAR T-cells injection"
+  ],
+  "startDate": "2025-01-31",
+  "completionDate": "2028-01-31",
+  "lastUpdate": "2025-01-27",
+  "locationsCount": 1,
+  "countries": [
+    "China"
+  ],
+  "briefSummary": "A Clinical Study on the Safety and Effectiveness of donor derived CD19 CAR-T Cells in the treatment of R/R B-cell acute lymphoblastic leukemia",
+  "scrapedAt": "2026-06-22T20:32:15.692Z"
+},
+{
+  "nctId": "NCT06736054",
+  "url": "https://clinicaltrials.gov/study/NCT06736054",
+  "title": "A Phase I Trial of 61Cu-NODAGA-PSMA for Patients with Prostate Cancer",
+  "status": "RECRUITING",
+  "phase": "PHASE1",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 8,
+  "leadSponsor": "Hoag Memorial Hospital Presbyterian",
+  "collaborators": [],
+  "conditions": [
+    "Prostate Adenocarcinoma"
+  ],
+  "interventions": [
+    "DRUG: Copper 61-PSMA PET/CT"
+  ],
+  "startDate": "2024-10-14",
+  "completionDate": "2025-03-31",
+  "lastUpdate": "2024-12-16",
+  "locationsCount": 1,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "Molecular Imaging (MI) uses tracers which emit radiation to provide clinically valuable imaging for patient with cancer. Most current MI agents utilize Fluorine 18 or Gallium 68 as the positron emitter for PET imaging. However, these isotopes have short half-lives which limit the geographic distribution range of tracers made with these isotopes. Copper 61 (61Cu) has a 3.3 hour half-life, which would allow for far greater distribution range following radiotracer production.\n\nThis phase I trial will test the safety and effectiveness of a novel MI radiotracer that uses 61Cu as its positron emitting isotope and targets Prostate Specific Membrane Antigen (PSMA) for imaging prostate cancer. A successful trial will provide the ability to advance this novel 61Cu-NODAGA-PSMA radioisotope into phase II trials, as well as open a new paradigm into the production of MI radioisotopes with 61Cu.",
+  "scrapedAt": "2026-06-22T20:32:15.722Z"
+},
+{
+  "nctId": "NCT02259556",
+  "url": "https://clinicaltrials.gov/study/NCT02259556",
+  "title": "CD30-directed Chimeric Antigen Receptor T (CART30) Therapy in Relapsed and Refractory CD30 Positive Lymphomas",
+  "status": "RECRUITING",
+  "phase": "PHASE1, PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 30,
+  "leadSponsor": "Chinese PLA General Hospital",
+  "collaborators": [],
+  "conditions": [
+    "Hodgkin's Lymphoma",
+    "Non-Hodgkin's Lymphoma"
+  ],
+  "interventions": [
+    "BIOLOGICAL: CART30"
+  ],
+  "startDate": "2014-10",
+  "completionDate": "2029-10",
+  "lastUpdate": "2016-01-28",
+  "locationsCount": 1,
+  "countries": [
+    "China"
+  ],
+  "briefSummary": "Chimeric antigen receptor-modified T cells (CART) holds great promise for treatment of tumors. In this trial, CD30 positive Hodgkin's lymphoma and Non-Hodgkin's lymphoma will be treated by CD30-specific CART cells (CART30).",
+  "scrapedAt": "2026-06-22T20:32:15.750Z"
+},
+{
+  "nctId": "NCT06522737",
+  "url": "https://clinicaltrials.gov/study/NCT06522737",
+  "title": "A Study of Duvelisib Versus Gemcitabine or Bendamustine in Participants With Relapsed/Refractory Nodal T Cell Lymphoma With T Follicular Helper (TFH) Phenotype",
+  "status": "RECRUITING",
+  "phase": "PHASE3",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 124,
+  "leadSponsor": "SecuraBio",
+  "collaborators": [],
+  "conditions": [
+    "Lymphoma"
+  ],
+  "interventions": [
+    "DRUG: Duvelisib",
+    "DRUG: Gemcitabine",
+    "DRUG: Bendamustine"
+  ],
+  "startDate": "2025-05-19",
+  "completionDate": "2028-12",
+  "lastUpdate": "2026-04-06",
+  "locationsCount": 44,
+  "countries": [
+    "Belgium",
+    "Czechia",
+    "Denmark",
+    "France",
+    "Germany",
+    "Italy",
+    "Netherlands",
+    "Poland",
+    "Spain",
+    "United Kingdom"
+  ],
+  "briefSummary": "The study will evaluate the progression-free survival benefit of duvelisib monotherapy as compared to investigator's choice of gemcitabine or bendamustine in participants with relapsed/refractory nodal T cell lymphoma with TFH phenotype.",
+  "scrapedAt": "2026-06-22T20:32:15.776Z"
+},
+{
+  "nctId": "NCT07240662",
+  "url": "https://clinicaltrials.gov/study/NCT07240662",
+  "title": "Vorasidenib in CNS WHO Grade 2 IDH-mutant Diffuse Glioma",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 150,
+  "leadSponsor": "iOMEDICO AG",
+  "collaborators": [],
+  "conditions": [
+    "Glioma"
+  ],
+  "interventions": [
+    "DRUG: Vorasidenib"
+  ],
+  "startDate": "2025-12-08",
+  "completionDate": "2032-01",
+  "lastUpdate": "2026-01-09",
+  "locationsCount": 1,
+  "countries": [
+    "Germany"
+  ],
+  "briefSummary": "The goal of this prospective, observational study VIOLETA is to collect real-world data on vorasidenib treatment in a broad patient population. Though vorasidenib can be administered from 12 years old, VIOLETA focuses on adult patients with IDH1- or IDH2-mutant WHO grade 2 glioma who receive vorasidenib following surgery according to the current SmPC. Thus, VIOLETA will evaluate for the first-time treatment with vorasidenib in German clinical routine. To gain knowledge about how vorasidenib treatment affects patients' well-being, the primary objective of the study is to assess patients' quality of life. Further patient-relevant endpoints addressed by this study will include seizure burden, PFS, Objective Response Rate (ORR), TTNI, safety as well as factors affecting treatment decision making.",
+  "scrapedAt": "2026-06-22T20:32:15.810Z"
+},
+{
+  "nctId": "NCT06063486",
+  "url": "https://clinicaltrials.gov/study/NCT06063486",
+  "title": "Curcumin to Improve Inflammation and Symptoms in Patients With Clonal Cytopenia of Undetermined Significance, Low Risk Myelodysplastic Syndrome, and Myeloproliferative Neoplasms",
+  "status": "RECRUITING",
+  "phase": "PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 30,
+  "leadSponsor": "University of Southern California",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "conditions": [
+    "Clonal Cytopenia of Undetermined Significance",
+    "Essential Thrombocythemia",
+    "Myelodysplastic Syndrome",
+    "Myelofibrosis",
+    "Polycythemia Vera"
+  ],
+  "interventions": [
+    "PROCEDURE: Biospecimen Collection",
+    "PROCEDURE: Bone Marrow Aspiration",
+    "PROCEDURE: Bone Marrow Biopsy",
+    "DIETARY_SUPPLEMENT: Curcumin/ Demethoxycurcumin/Bisdemethoxycurcumin-containing Supplement",
+    "DIETARY_SUPPLEMENT: Piperine Extract (Standardized)",
+    "DRUG: Placebo Administration",
+    "OTHER: Questionnaire Administration"
+  ],
+  "startDate": "2024-03-01",
+  "completionDate": "2027-03-01",
+  "lastUpdate": "2026-03-27",
+  "locationsCount": 2,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "This phase II trial evaluates how a curcumin supplement (C3 complex/Bioperine) changes the inflammatory response and symptomatology in patients with clonal cytopenia of undetermined significance (CCUS), low risk myelodysplastic syndrome (LR-MDS), and myeloproliferative neoplasms (MPN). Chronic inflammation drives disease development and contributes to symptoms experienced by patients with CCUS, LR-MDS, and MPN. Curcumin has been shown to have anti-inflammatory and anti-cancer properties and has been studied in various chronic illnesses and hematologic diseases.",
+  "scrapedAt": "2026-06-22T20:32:15.834Z"
+},
+{
+  "nctId": "NCT05229341",
+  "url": "https://clinicaltrials.gov/study/NCT05229341",
+  "title": "Evaluation of DNA Methylation Signatures for the Diagnosis and Management of Thyroid Nodules",
+  "status": "RECRUITING",
+  "phase": "NA",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 1450,
+  "leadSponsor": "City of Hope Medical Center",
+  "collaborators": [
+    "National Cancer Institute (NCI)"
+  ],
+  "conditions": [
+    "Thyroid Gland Carcinoma"
+  ],
+  "interventions": [
+    "PROCEDURE: Diagnostic Procedure",
+    "OTHER: Electronic Health Record Review",
+    "PROCEDURE: Needle Biopsy"
+  ],
+  "startDate": "2021-10-22",
+  "completionDate": "2026-10-22",
+  "lastUpdate": "2026-02-23",
+  "locationsCount": 1,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "This clinical trial evaluates deoxyribonucleic acid (DNA) methylation signatures in diagnosing and managing thyroid nodules. The purpose of this research is to develop a new test for thyroid cancer. This test will use needle biopsies (small collections of tissue with a needle) from the thyroid to determine whether the participant has a malignant (cancer) or benign (not showing cancer) thyroid tumor. The information learned from this trial may help develop a more accurate test so that patients do not have unnecessary surgeries for nodules that are thought to be suspicious but are actually benign.",
+  "scrapedAt": "2026-06-22T20:32:15.858Z"
+},
+{
+  "nctId": "NCT06441994",
+  "url": "https://clinicaltrials.gov/study/NCT06441994",
+  "title": "Clinical Trial of Targeted Alpha Therapy Using [At-211]PSMA-5 for Prostate Cancer",
+  "status": "RECRUITING",
+  "phase": "PHASE1",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 15,
+  "leadSponsor": "Osaka University",
+  "collaborators": [
+    "Japan Agency for Medical Research and Development"
+  ],
+  "conditions": [
+    "Prostate Cancer"
+  ],
+  "interventions": [
+    "DRUG: PSW-1025"
+  ],
+  "startDate": "2024-05-24",
+  "completionDate": "2027-03-31",
+  "lastUpdate": "2025-07-31",
+  "locationsCount": 1,
+  "countries": [
+    "Japan"
+  ],
+  "briefSummary": "PSW-1025 is administered intravenously to patients with castration-resistant prostate cancer to evaluate its tolerability, safety, pharmacokinetics, absorbed dose, and efficacy, as well as to determine the recommended dose for Phase II.",
+  "scrapedAt": "2026-06-22T20:32:15.883Z"
+},
+{
+  "nctId": "NCT07034053",
+  "url": "https://clinicaltrials.gov/study/NCT07034053",
+  "title": "Clofarabine Therapy in Locally Advanced or Metastatic Urothelial Carcinoma",
+  "status": "RECRUITING",
+  "phase": "PHASE1, PHASE2",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 50,
+  "leadSponsor": "Ekaterina Laukhtina",
+  "collaborators": [],
+  "conditions": [
+    "Advanced Urothelial Carcinoma",
+    "Metastatic Urothelial Cancer"
+  ],
+  "interventions": [
+    "DRUG: Clofarabine"
+  ],
+  "startDate": "2023-10-24",
+  "completionDate": "2028-11",
+  "lastUpdate": "2025-06-26",
+  "locationsCount": 1,
+  "countries": [
+    "Austria"
+  ],
+  "briefSummary": "This phase 1/2 study will evaluate the maximum tolerated dose, efficacy, and safety of clofarabine in patients with advanced or metastatic urothelial cancer.",
+  "scrapedAt": "2026-06-22T20:32:15.906Z"
+},
+{
+  "nctId": "NCT06315595",
+  "url": "https://clinicaltrials.gov/study/NCT06315595",
+  "title": "Improvements in Dynamic Contrast-Enhanced MR Angiography and Perfusion and Non-Contrast MRI",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 1000,
+  "leadSponsor": "Mayo Clinic",
+  "collaborators": [
+    "National Institute for Biomedical Imaging and Bioengineering (NIBIB)",
+    "National Cancer Institute (NCI)"
+  ],
+  "conditions": [
+    "Prostate Neoplasm"
+  ],
+  "interventions": [
+    "OTHER: Non-Interventional Study"
+  ],
+  "startDate": "2015-09-30",
+  "completionDate": "2030-09-30",
+  "lastUpdate": "2026-04-17",
+  "locationsCount": 2,
+  "countries": [
+    "United States"
+  ],
+  "briefSummary": "This study evaluates if technical improvements in MRI can be used to provide improved performance contrast-enhanced MRI as used for angiography and perfusion as well as in non-contrast MRI.",
+  "scrapedAt": "2026-06-22T20:32:15.934Z"
+},
+{
+  "nctId": "NCT06992986",
+  "url": "https://clinicaltrials.gov/study/NCT06992986",
+  "title": "Urinary Microbiome Differences in Bladder Cancer, Benign Urinary Diseases and Healthy Counterparts in Adult Male Population",
+  "status": "RECRUITING",
+  "phase": "",
+  "studyType": "OBSERVATIONAL",
+  "enrollment": 50,
+  "leadSponsor": "Regina Elena Cancer Institute",
+  "collaborators": [],
+  "conditions": [
+    "Bladder Cancer"
+  ],
+  "interventions": [
+    "OTHER: Investigating differences in the bladder microbiome"
+  ],
+  "startDate": "2024-02-06",
+  "completionDate": "2025-07-06",
+  "lastUpdate": "2025-05-28",
+  "locationsCount": 1,
+  "countries": [
+    "Italy"
+  ],
+  "briefSummary": "The study aims to investigate alterations in the bladder microbiome in adult men with bladder cancer, healthy men, and men with benign urinary disease",
+  "scrapedAt": "2026-06-22T20:32:15.958Z"
+},
+{
+  "nctId": "NCT04892173",
+  "url": "https://clinicaltrials.gov/study/NCT04892173",
+  "title": "JNJ-90301900 (NBTXR3) Activated by Radiotherapy With or Without Cetuximab in LA-HNSCC",
+  "status": "RECRUITING",
+  "phase": "PHASE3",
+  "studyType": "INTERVENTIONAL",
+  "enrollment": 500,
+  "leadSponsor": "Johnson & Johnson Enterprise Innovation Inc.",
+  "collaborators": [],
+  "conditions": [
+    "Carcinoma, Squamous Cell"
+  ],
+  "interventions": [
+    "DRUG: JNJ-90301900 (NBTXR3)",
+    "DRUG: Cetuximab",
+    "RADIATION: Radiation Therapy"
+  ],
+  "startDate": "2021-12-10",
+  "completionDate": "2028-06-30",
+  "lastUpdate": "2026-06-05",
+  "locationsCount": 191,
+  "countries": [
+    "United States",
+    "Austria",
+    "Belgium",
+    "Brazil",
+    "Bulgaria",
+    "Canada",
+    "China",
+    "Croatia",
+    "Czechia",
+    "Finland",
+    "France",
+    "Georgia",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "India",
+    "Israel",
+    "Japan",
+    "Philippines",
+    "Portugal",
+    "Romania",
+    "Serbia",
+    "South Korea",
+    "Spain",
+    "Sweden",
+    "Taiwan",
+    "United Kingdom"
+  ],
+  "briefSummary": "This is a global, open-label, randomized, 2-arm, Investigator's choice Phase 3 (Pivotal Stage) study to investigate the efficacy and safety of JNJ-90301900 (NBTXR3) / radiation therapy (RT)±cetuximab versus RT±cetuximab in treatment-naïve, platinum-ineligible, elderly participants with locally advanced head and neck squamous cell carcinoma (LA-HNSCC).",
+  "scrapedAt": "2026-06-22T20:32:15.981Z"
+}]
